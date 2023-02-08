@@ -1,4 +1,4 @@
-# F303Template
+# F303_Mbed_Template
 
 ## これはなに？
 
